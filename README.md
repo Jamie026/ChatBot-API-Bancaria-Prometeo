@@ -22,6 +22,6 @@ Debemos esperar que nos aparezca este mensaje:
 
 ![image](https://user-images.githubusercontent.com/81883195/192751521-aa01bfee-589e-425a-9c1c-b2fe8d94173d.png)
 
-Tras esos 5 pasos ya estaremos ejecutando el proyecto. Para probarlo como es debido mantenga abierta en todo momento la terminal que ejecuta el proyecto.
-A continuación abra el telegram y y busque al usuario "Gura00Bot" o si prefiere accesa directamente a traves del siguiente link: "https://t.me/Gura00Bot".
+Tras esos 5 pasos ya estaremos ejecutando el proyecto. Para probarlo como es debido mantenga abierta en todo momento la terminal que ejecuta el proyecto y
+a continuación abra el telegram donde debera buscar manualmente al usuario "Gura00Bot" o también puede acceder directamente a traves del siguiente link: "https://t.me/Gura00Bot".
 Con el comando /start y /help el bot le dara toda la informaci;on necesaria para probar todos los comandos disponibles.
