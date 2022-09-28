@@ -20,7 +20,7 @@ Debemos esperar que nos aparezca este mensaje:
 4. Con el comando docker images podremos visualizar si nuestra imagen ha sido creada con exito.
 5. Por ultimo debemos ejecutar el comando "docker run -it -p 4000 chatbot-prometeo". Al final nos debe aparecer esto:
 
-![image](https://user-images.githubusercontent.com/81883195/192753038-373cfd7f-4f4e-4b2d-8c03-1530b34f8e3d.png)
+![image](https://user-images.githubusercontent.com/81883195/192753175-5d29b92c-60b9-4162-b655-4df715b6fea4.png)
 
 Tras esos 5 pasos ya estaremos ejecutando el proyecto. Para probarlo como es debido mantenga abierta en todo momento la terminal que ejecuta el proyecto y
 a continuación busque en telegram al usuario "Gura00Bot" o también puede acceder directamente a traves del siguiente link: "https://t.me/Gura00Bot".
