@@ -24,4 +24,4 @@ Debemos esperar que nos aparezca este mensaje:
 
 Tras esos 5 pasos ya estaremos ejecutando el proyecto. Para probarlo como es debido mantenga abierta en todo momento la terminal que ejecuta el proyecto.
 A continuación abra el telegram y y busque al usuario "Gura00Bot" o si prefiere accesa directamente a traves del siguiente link: "https://t.me/Gura00Bot".
-Con esto ya finalizamos, con el comando /start y /help y bot le dara toda la informaci;on necesaria para probar todos los comandos disponibles.
+Con el comando /start y /help el bot le dara toda la informaci;on necesaria para probar todos los comandos disponibles.
